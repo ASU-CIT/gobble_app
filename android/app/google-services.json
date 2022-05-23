@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "391097054010",
+    "firebase_url": "https://gobbleappproject-default-rtdb.firebaseio.com",
+    "project_id": "gobbleappproject",
+    "storage_bucket": "gobbleappproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391097054010:android:95a7ab358523b063135603",
+        "android_client_info": {
+          "package_name": "com.flutterflow.gobbleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391097054010-lohjpajfgvr36fo35im06o8mpdr6nknv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.gobbleapp",
+            "certificate_hash": "400f2047c27bd612c3d9688404c76ab435f90e81"
+          }
+        },
+        {
+          "client_id": "391097054010-m0r0vm1slcb0n5dbnn3c4uf6scgvo6dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.gobbleapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "391097054010-un10aubol44jhuito88ou1t6gta6h5b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhW7wJYp4xiTiTchFKvQ5G5mU-h_Q4-4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391097054010-un10aubol44jhuito88ou1t6gta6h5b8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391097054010-2grh1fe2rfsm1krfi1chcs83et8k427m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.gobbleaklan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

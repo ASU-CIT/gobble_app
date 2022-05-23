@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Gobble App</string>
+    <string name="facebook_app_id">2168874879942789</string>
+               <string name="fb_login_protocol_scheme">fb2168874879942789</string>
+</resources>
